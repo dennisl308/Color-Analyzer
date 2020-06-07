@@ -24,7 +24,7 @@ class ImageLabel(QLabel):
         ''')
         self.setAlignment(Qt.AlignCenter)   # Align inside contents to the center
         self.setText('<font size=5>Drop Image Here</font>')
-        self.setGeometry(0,0,500,500)
+        self.setGeometry(0, 0, 500, 500)
 
     # Display image, maintain aspect ratio
     def setPixmap(self, image):
