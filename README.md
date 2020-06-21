@@ -22,7 +22,7 @@ Open the ColorAnalyzer executable file. Running through .py file is possible but
 ## Donation
 Support me by clicking on the link below!
 
-<a href="https://www.buymeacoffee.com/origami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/origami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
 ## Disclaimer
 Do not copy and redistribute without my permission.
