@@ -1,4 +1,5 @@
 # Graphical User Interface for Color Analyzer
+# Created by: Dennis Luong
 
 # Imported libaries
 import sys, os # argv, exit status
