@@ -1,5 +1,5 @@
 <h1 align="center">Color Analyzer</h1>
-<p align="center">A python GUI program that will take a given image and identify the colors that are often seen within it.</p>
+<p align="center">A python GUI program that will take a given image and identify colors on top of your mouse clicks.</p>
 
 ![Dominant Color Analyzer](demo.gif)
 
