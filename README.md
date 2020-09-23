@@ -1,4 +1,4 @@
-<h1 align="center">Dominant Color Analyzer</h1>
+<h1 align="center">Color Analyzer</h1>
 <p align="center">A python GUI program that will take a given image and identify the colors that are often seen within it.</p>
 
 ![Dominant Color Analyzer](demo.gif)
